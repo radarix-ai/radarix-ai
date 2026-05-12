@@ -1,25 +1,29 @@
 # Radarix.ai
 
-**Live OSINT radar and regional alert map.**
+![Radarix.ai — Live OSINT Radar](hero.jpg)
 
-Radarix helps teams monitor public signals, map regional alerts, and turn fragmented open-source information into faster situational awareness.
+Radarix.ai is an interactive **OSINT radar** for tracking critical
+public events and signals in real time.
 
-## What Radarix is for
+We focus on:
 
-- Tracking regional events and emerging risk signals
-- Monitoring public OSINT sources in one operational view
-- Supporting fast checks, alerts, and follow-up workflows
-- Helping teams move from scattered information to actionable context
+- live aviation and movement signals;
+- maritime and cross-border activity;
+- public incident reports and situational awareness;
+- structured alerts and follow-up workflows;
+- multilingual reach.
 
-## Status
+**Website:** https://radarix.ai
 
-Radarix is in active development. We are building the monitoring, alerting, and growth-ops pipeline around the product while validating public listing and discovery channels.
+## What we are building
 
-## Links
+A practical radar for high-signal public information: collect signals
+from open sources, classify what matters, and turn fast-moving events
+into clearer situational awareness on a single live map.
 
-- Website: https://radarix.ai
-- Product / updates: coming soon
+## Current focus
 
----
-
-If you work with OSINT, monitoring, alerts, or regional risk intelligence, follow along — more build notes and demos are coming.
+- OSINT monitoring workflows;
+- automated public-source checks;
+- multilingual real-time alerts;
+- clean reports and action queues.
